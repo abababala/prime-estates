@@ -1,0 +1,130 @@
+backend:
+  name: github
+  repo: abababala/prime-estates
+  branch: main
+media_folder: assets/uploads
+public_folder: assets/uploads
+collections:
+  - name: site
+    label: Site content
+    files:
+      - name: settings
+        label: Site settings and brand
+        file: data/settings.json
+        format: json
+        fields:
+          - {label: Company name, name: name, widget: string}
+          - {label: Logo text, name: logo_text, widget: string}
+          - {label: Logo image (optional and replaces text), name: logo_image, widget: image, required: false}
+          - {label: Tagline, name: tagline, widget: string}
+          - {label: Background colour, name: bg, widget: color}
+          - {label: Text colour, name: ink, widget: color}
+          - {label: Accent colour, name: accent, widget: color}
+          - {label: Currency symbol, name: currency, widget: string}
+          - {label: Phone, name: phone, widget: string}
+          - {label: WhatsApp number (digits only), name: whatsapp, widget: string}
+          - {label: Email, name: email, widget: string}
+          - {label: Address, name: address, widget: string}
+          - {label: City, name: city, widget: string}
+          - {label: Opening hours, name: hours, widget: string}
+      - name: home
+        label: Home page
+        file: data/home.json
+        format: json
+        fields:
+          - label: Slideshow
+            name: slides
+            widget: list
+            fields:
+              - {label: Photo, name: image, widget: image, required: false}
+              - {label: Headline, name: title, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Button text, name: button, widget: string}
+              - {label: Button link, name: link, widget: string}
+          - {label: Intro heading, name: intro_title, widget: string}
+          - {label: Intro text, name: intro_text, widget: text}
+          - {label: Featured heading, name: featured_title, widget: string}
+          - {label: Testimonials heading, name: tm_title, widget: string}
+          - label: Testimonials
+            name: testimonials
+            widget: list
+            fields:
+              - {label: Quote, name: quote, widget: text}
+              - {label: Name, name: name, widget: string}
+          - {label: Bottom heading, name: cta_title, widget: string}
+          - {label: Bottom text, name: cta_text, widget: text}
+          - {label: Bottom button, name: cta_button, widget: string}
+      - name: pages
+        label: Other pages text
+        file: data/pages.json
+        format: json
+        fields:
+          - {label: Properties title, name: props_title, widget: string}
+          - {label: Properties text, name: props_text, widget: text}
+          - {label: Agents title, name: agents_title, widget: string}
+          - {label: Agents text, name: agents_text, widget: text}
+          - {label: About title, name: about_title, widget: string}
+          - {label: About text, name: about_text, widget: text}
+          - {label: About photo, name: about_image, widget: image, required: false}
+          - label: About points
+            name: values
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Text, name: text, widget: text}
+          - {label: Contact title, name: contact_title, widget: string}
+          - {label: Contact text, name: contact_text, widget: text}
+      - name: properties
+        label: Properties
+        file: data/properties.json
+        format: json
+        fields:
+          - label: Properties
+            name: items
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Buy or rent, name: mode, widget: select, options: [Buy, Rent], default: Buy}
+              - {label: Status, name: status, widget: select, options: [Available, Sold, Let], default: Available}
+              - {label: Type, name: type, widget: select, options: [House, Apartment, Land, Commercial], default: House}
+              - {label: Location, name: location, widget: string}
+              - {label: Price (numbers only), name: price, widget: string}
+              - {label: Price note (for example per year), name: price_note, widget: string, required: false}
+              - {label: Bedrooms, name: beds, widget: string, required: false}
+              - {label: Bathrooms, name: baths, widget: string, required: false}
+              - {label: Size, name: size, widget: string, required: false}
+              - {label: Description, name: description, widget: text}
+              - {label: Features, name: features, widget: list, required: false, field: {label: Feature, name: feature, widget: string}}
+              - {label: Show on home page, name: featured, widget: boolean, default: false}
+              - {label: Photos (first one is the cover), name: gallery, widget: list, required: false, field: {label: Photo, name: photo, widget: image}}
+      - name: agents
+        label: Agents
+        file: data/agents.json
+        format: json
+        fields:
+          - label: Agents
+            name: items
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Role, name: role, widget: string}
+              - {label: Short bio, name: bio, widget: text}
+              - {label: Phone, name: phone, widget: string, required: false}
+              - {label: Photo, name: photo, widget: image, required: false}
+      - name: builder
+        label: Built by (services page)
+        file: data/builder.json
+        format: json
+        fields:
+          - {label: Name, name: name, widget: string}
+          - {label: Headline, name: headline, widget: string}
+          - {label: About me, name: about, widget: text}
+          - label: Services and skills
+            name: services
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Description, name: description, widget: text}
+          - {label: Email, name: email, widget: string}
+          - {label: Phone, name: phone, widget: string}
+          - {label: WhatsApp number (digits only), name: whatsapp, widget: string}
