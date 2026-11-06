@@ -1,7 +1,130 @@
-{"items":[
-{"title":"Modern 5 Bedroom Detached House","mode":"Buy","status":"Available","type":"House","location":"Maitama, Abuja","price":"450,000,000","price_note":"","beds":"5","baths":"6","size":"650 sqm","description":"A spacious detached home with a private garden, boys quarters and ample parking in a quiet, secure street.","features":["Fitted kitchen","Private garden","24 hour security","Ample parking"],"featured":true,"gallery":[]},
-{"title":"Luxury 3 Bedroom Apartment","mode":"Buy","status":"Available","type":"Apartment","location":"Ikoyi, Lagos","price":"280,000,000","price_note":"","beds":"3","baths":"4","size":"240 sqm","description":"A bright apartment on a high floor with generous living space, a balcony and shared amenities.","features":["Balcony","Lift","Gym","Backup power"],"featured":true,"gallery":[]},
-{"title":"Serviced 2 Bedroom Flat","mode":"Rent","status":"Available","type":"Apartment","location":"Wuse 2, Abuja","price":"6,500,000","price_note":"per year","beds":"2","baths":"2","size":"140 sqm","description":"A clean, well-finished flat close to shops and offices, with water and power supported by the estate.","features":["Serviced","Parking","Security"],"featured":true,"gallery":[]},
-{"title":"4 Bedroom Terrace Duplex","mode":"Buy","status":"Available","type":"House","location":"Gwarinpa, Abuja","price":"145,000,000","price_note":"","beds":"4","baths":"4","size":"380 sqm","description":"A family duplex in a gated estate with a quiet layout and room for a home office.","features":["Gated estate","Study room","Parking"],"featured":true,"gallery":[]},
-{"title":"Residential Land, 600 sqm","mode":"Buy","status":"Available","type":"Land","location":"Lekki, Lagos","price":"95,000,000","price_note":"","beds":"","baths":"","size":"600 sqm","description":"A dry, well-located plot ready for development, with clear documentation available on request.","features":["Dry land","Good access road"],"featured":true,"gallery":[]},
-{"title":"Executive 3 Bedroom Bungalow","mode":"Rent","status":"Let","type":"House","location":"Asokoro, Abuja","price":"15,000,000","price_note":"per year","beds":"3","baths":"3","size":"300 sqm","description":"A comfortable bungalow with a large compound in a calm, central neighbourhood.","features":["Large compound","Security","Parking"],"featured":true,"gallery":[]}]}
+{
+  "items": [
+    {
+      "title": "Modern 5 Bedroom Detached House",
+      "mode": "Buy",
+      "status": "Available",
+      "type": "House",
+      "location": "Maitama, Abuja",
+      "price": "450,000,000",
+      "price_note": "",
+      "beds": "5",
+      "baths": "6",
+      "size": "650 sqm",
+      "description": "A spacious detached home with a private garden, boys quarters and ample parking in a quiet, secure street.",
+      "features": [
+        "Fitted kitchen",
+        "Private garden",
+        "24 hour security",
+        "Ample parking"
+      ],
+      "featured": true,
+      "gallery": [
+        "/assets/uploads/IMG_4671.png",
+        "/assets/uploads/IMG_4674.png",
+        "/assets/uploads/IMG_4671.png",
+        "/assets/uploads/IMG_4679.jpeg"
+      ]
+    },
+    {
+      "title": "Luxury 3 Bedroom Apartment",
+      "mode": "Buy",
+      "status": "Available",
+      "type": "Apartment",
+      "location": "Ikoyi, Lagos",
+      "price": "280,000,000",
+      "price_note": "",
+      "beds": "3",
+      "baths": "4",
+      "size": "240 sqm",
+      "description": "A bright apartment on a high floor with generous living space, a balcony and shared amenities.",
+      "features": [
+        "Balcony",
+        "Lift",
+        "Gym",
+        "Backup power"
+      ],
+      "featured": true,
+      "gallery": []
+    },
+    {
+      "title": "Serviced 2 Bedroom Flat",
+      "mode": "Rent",
+      "status": "Available",
+      "type": "Apartment",
+      "location": "Wuse 2, Abuja",
+      "price": "6,500,000",
+      "price_note": "per year",
+      "beds": "2",
+      "baths": "2",
+      "size": "140 sqm",
+      "description": "A clean, well-finished flat close to shops and offices, with water and power supported by the estate.",
+      "features": [
+        "Serviced",
+        "Parking",
+        "Security"
+      ],
+      "featured": true,
+      "gallery": []
+    },
+    {
+      "title": "4 Bedroom Terrace Duplex",
+      "mode": "Buy",
+      "status": "Available",
+      "type": "House",
+      "location": "Gwarinpa, Abuja",
+      "price": "145,000,000",
+      "price_note": "",
+      "beds": "4",
+      "baths": "4",
+      "size": "380 sqm",
+      "description": "A family duplex in a gated estate with a quiet layout and room for a home office.",
+      "features": [
+        "Gated estate",
+        "Study room",
+        "Parking"
+      ],
+      "featured": true,
+      "gallery": []
+    },
+    {
+      "title": "Residential Land, 600 sqm",
+      "mode": "Buy",
+      "status": "Available",
+      "type": "Land",
+      "location": "Lekki, Lagos",
+      "price": "95,000,000",
+      "price_note": "",
+      "beds": "",
+      "baths": "",
+      "size": "600 sqm",
+      "description": "A dry, well-located plot ready for development, with clear documentation available on request.",
+      "features": [
+        "Dry land",
+        "Good access road"
+      ],
+      "featured": true,
+      "gallery": []
+    },
+    {
+      "title": "Executive 3 Bedroom Bungalow",
+      "mode": "Rent",
+      "status": "Let",
+      "type": "House",
+      "location": "Asokoro, Abuja",
+      "price": "15,000,000",
+      "price_note": "per year",
+      "beds": "3",
+      "baths": "3",
+      "size": "300 sqm",
+      "description": "A comfortable bungalow with a large compound in a calm, central neighbourhood.",
+      "features": [
+        "Large compound",
+        "Security",
+        "Parking"
+      ],
+      "featured": true,
+      "gallery": []
+    }
+  ]
+}
