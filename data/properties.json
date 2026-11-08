@@ -20,10 +20,15 @@
       ],
       "featured": true,
       "gallery": [
-        "/assets/uploads/IMG_4671.png",
-        "/assets/uploads/IMG_4674.png",
-        "/assets/uploads/IMG_4671.png",
-        "/assets/uploads/IMG_4679.jpeg"
+        "/assets/uploads/IMG_4826.jpeg",
+        "/assets/uploads/IMG_4827.jpeg",
+        "/assets/uploads/IMG_4828.jpeg",
+        "/assets/uploads/IMG_4830.jpeg",
+        "/assets/uploads/IMG_4831.jpeg",
+        "/assets/uploads/IMG_4832.jpeg",
+        "/assets/uploads/IMG_4833.jpeg",
+        "/assets/uploads/IMG_4835.jpeg",
+        "/assets/uploads/IMG_4836.jpeg"
       ]
     },
     {
@@ -45,7 +50,11 @@
         "Backup power"
       ],
       "featured": true,
-      "gallery": []
+      "gallery": [
+        "/assets/uploads/IMG_4840.jpeg",
+        "/assets/uploads/IMG_4839.jpeg",
+        "/assets/uploads/IMG_4837.jpeg"
+      ]
     },
     {
       "title": "Serviced 2 Bedroom Flat",
@@ -65,7 +74,19 @@
         "Security"
       ],
       "featured": true,
-      "gallery": []
+      "gallery": [
+        "/assets/uploads/IMG_4857.jpeg",
+        "/assets/uploads/IMG_4856.jpeg",
+        "/assets/uploads/IMG_4855.jpeg",
+        "/assets/uploads/IMG_4854.jpeg",
+        "/assets/uploads/IMG_4853.jpeg",
+        "/assets/uploads/IMG_4851.jpeg",
+        "/assets/uploads/IMG_4847.jpeg",
+        "/assets/uploads/IMG_4846.jpeg",
+        "/assets/uploads/IMG_4845.jpeg",
+        "/assets/uploads/IMG_4844.jpeg",
+        "/assets/uploads/IMG_4843.jpeg"
+      ]
     },
     {
       "title": "4 Bedroom Terrace Duplex",
@@ -85,15 +106,26 @@
         "Parking"
       ],
       "featured": true,
-      "gallery": []
+      "gallery": [
+        "/assets/uploads/IMG_4867.jpeg",
+        "/assets/uploads/IMG_4866.jpeg",
+        "/assets/uploads/IMG_4865.jpeg",
+        "/assets/uploads/IMG_4864.jpeg",
+        "/assets/uploads/IMG_4863.jpeg",
+        "/assets/uploads/IMG_4862.jpeg",
+        "/assets/uploads/IMG_4861.jpeg",
+        "/assets/uploads/IMG_4860.jpeg",
+        "/assets/uploads/IMG_4859.jpeg",
+        "/assets/uploads/IMG_4858.jpeg"
+      ]
     },
     {
       "title": "Residential Land, 600 sqm",
       "mode": "Buy",
       "status": "Available",
       "type": "Land",
-      "location": "Lekki, Lagos",
-      "price": "95,000,000",
+      "location": "Airport Road, Abuja",
+      "price": "75,000,000",
       "price_note": "",
       "beds": "",
       "baths": "",
@@ -104,7 +136,10 @@
         "Good access road"
       ],
       "featured": true,
-      "gallery": []
+      "gallery": [
+        "/assets/uploads/IMG_4868.jpeg",
+        "/assets/uploads/IMG_4869.jpeg"
+      ]
     },
     {
       "title": "Executive 3 Bedroom Bungalow",
@@ -124,7 +159,14 @@
         "Parking"
       ],
       "featured": true,
-      "gallery": []
+      "gallery": [
+        "/assets/uploads/IMG_4878.jpeg",
+        "/assets/uploads/IMG_4879.jpeg",
+        "/assets/uploads/IMG_4877.jpeg",
+        "/assets/uploads/IMG_4873.jpeg",
+        "/assets/uploads/IMG_4870.jpeg",
+        "/assets/uploads/IMG_4872.jpeg"
+      ]
     }
   ]
 }
