@@ -1,1 +1,25 @@
-{"items":[{"name":"Sample Agent One","role":"Senior sales agent","bio":"Helps buyers and investors find homes across Abuja.","phone":"+2349027085482","photo":""},{"name":"Sample Agent Two","role":"Lettings manager","bio":"Handles rentals, viewings and tenancy paperwork.","phone":"+2349027085482","photo":""},{"name":"Sample Agent Three","role":"Land and commercial","bio":"Advises on plots, offices and development land.","phone":"+2349027085482","photo":""}]}
+{
+  "items": [
+    {
+      "name": "Queen Chidi",
+      "role": "Senior sales agent",
+      "bio": "Helps buyers and investors find homes across Abuja.",
+      "phone": "+2349027085482",
+      "photo": "/assets/uploads/IMG_4824.jpeg"
+    },
+    {
+      "name": "Hassan Umar",
+      "role": "Lettings manager",
+      "bio": "Handles rentals, viewings and tenancy paperwork.",
+      "phone": "+2349027085482",
+      "photo": "/assets/uploads/IMG_4823.jpeg"
+    },
+    {
+      "name": "Kenneth David",
+      "role": "Land and commercial",
+      "bio": "Advises on plots, offices and development land.",
+      "phone": "+2349027085482",
+      "photo": "/assets/uploads/IMG_4822.jpeg"
+    }
+  ]
+}
