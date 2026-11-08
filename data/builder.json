@@ -1,1 +1,30 @@
-{"name":"Allan Aminu","headline":"Websites and custom email for your business","about":"I design and build clean, fast websites with an admin area, so you can update photos, prices and pages yourself without calling a developer.","services":[{"title":"Website design and development","description":"Multi-page, mobile-friendly websites built for your type of business."},{"title":"Admin and content setup","description":"A simple login where you add listings, photos and text yourself."},{"title":"Custom email address","description":"A professional address like you@yourbusiness.com, set up and working."},{"title":"Logo and visual identity","description":"Clean text-based logos and brand styling that match your website."}],"email":"allamaminu247@gmail.com","phone":"+2349027085482","whatsapp":"2349027085482"}
+{
+  "name": "Allan Aminu",
+  "headline": "Websites, social media growth strategies and custom email for your business",
+  "about": "I design and build clean and reliable websites, custom emails and strategies for social media that best convey your brand identity or creative vision. They can also come with an admin area, so you can update photos, prices and pages yourself without calling a developer.",
+  "services": [
+    {
+      "title": "Website design and development",
+      "description": "Multi-page, mobile or desktop friendly websites built for your type of business and brand identity."
+    },
+    {
+      "title": "Admin and content setup",
+      "description": "A simple login where you add listings, photos and text yourself."
+    },
+    {
+      "title": "Custom email address",
+      "description": "A professional address like you@yourbusiness.com, set up and working."
+    },
+    {
+      "title": "Logo and visual identity",
+      "description": "Clean text-based logos and brand styling that match your website or brand identity."
+    },
+    {
+      "title": "Social media organic growth and follower",
+      "description": "We manage all social media platforms using our organic growth strategies. You can also buy followers, views likes and more from us."
+    }
+  ],
+  "email": "allamaminu247@gmail.com",
+  "phone": "+2349027085482",
+  "whatsapp": "2349027085482"
+}
