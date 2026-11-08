@@ -1,1 +1,25 @@
-{"props_title":"Properties","props_text":"Filter by type, location and price to find what suits you.","agents_title":"Our agents","agents_text":"Friendly, experienced people who know the market.","about_title":"About Prime Estates","about_text":"A real estate company built on trust, clear advice and local knowledge.","about_image":"","values":[{"title":"Honest advice","text":"We tell you what a property is really worth and what to expect."},{"title":"Local knowledge","text":"Our agents know the neighbourhoods, prices and what is coming next."},{"title":"Support to the end","text":"From first viewing to final paperwork, we stay with you."}],"contact_title":"Contact us","contact_text":"Send an enquiry by email or WhatsApp and we will reply quickly."}
+{
+  "props_title": "Properties",
+  "props_text": "Filter by type, location and price to find what suits you.",
+  "agents_title": "Our agents",
+  "agents_text": "Friendly, experienced people who know the market.",
+  "about_title": "About Prime Estates",
+  "about_text": "A real estate company built on trust, clear advice and local knowledge.",
+  "about_image": "/assets/uploads/IMG_4825.jpeg",
+  "values": [
+    {
+      "title": "Honest advice",
+      "text": "We tell you what a property is really worth and what to expect."
+    },
+    {
+      "title": "Local knowledge",
+      "text": "Our agents know the neighbourhoods, prices and what is coming next."
+    },
+    {
+      "title": "Support to the end",
+      "text": "From first viewing to final paperwork, we stay with you."
+    }
+  ],
+  "contact_title": "Contact us",
+  "contact_text": "Send an enquiry by email or WhatsApp and we will reply quickly."
+}
